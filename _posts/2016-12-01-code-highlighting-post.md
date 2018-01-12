@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postexample
 title: Syntax Highlighting Post
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2016-12-01
