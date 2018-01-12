@@ -1,5 +1,5 @@
-title:            Scripting.Rocks
-description:      Describe your website here.
+title:       Scripting.Rocks
+description: Get-Command | Get-Random | Get-Help
 
 # put your disqus here
 disqus_shortname:
@@ -20,22 +20,22 @@ url: http://scripting.rocks
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#  - title: 'Fork'
+#    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+#  - title: 'Install'
+#    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
+#  - title: 'Tags'
+#    url: '/tags'
+#  - title: 'Categories'
+#    url: '/categories'
+#    type: 'categories'
+#  - title: 'Favorites'
+#    url: '#'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
@@ -51,7 +51,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: gavineke
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
