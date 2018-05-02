@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://scripting.rocks
+url: https://scripting.rocks
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -42,7 +42,7 @@ owner:
   name:           Gavin Eke
   site:           http://gavineke.com
   avatar:         images/avatar.jpg
-  bio:            "IT Generalist. Managing Infrastructure with Code."
+  bio:            "IT Infrastructure Administrator. Managing Infrastructure with Code."
 #  email:          
   # Twitter nick for use in Twitter cards and follow button.
   twitter: gavineke # if no twitter in this config, the twitter follow button will be removed
